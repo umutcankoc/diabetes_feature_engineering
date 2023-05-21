@@ -6,6 +6,7 @@ Model kurulumu öncesinde veri seti özellik mühendisliği, veri önişleme aş
 Bu çalışmada diabetes veri seti kullanılmıştır.
 
 **Veri Seti Hikayesi**
+
 Veri seti ABD'deki Ulusal Diyabet-Sindirim-Böbrek Hastalıkları Enstitüleri'nde tutulan büyük veri setinin parçasıdır. ABD'deki
 Arizona Eyaleti'nin en büyük 5. şehri olan Phoenix şehrinde yaşayan 21 yaş ve üzerinde olan Pima Indian kadınları üzerinde
 yapılan diyabet araştırması için kullanılan verilerdir.
